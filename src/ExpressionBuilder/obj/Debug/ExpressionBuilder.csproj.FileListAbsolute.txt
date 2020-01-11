@@ -5,6 +5,5 @@ C:\Users\Leandro\Desktop\ExpressionBuilder\ExpressionBuilder\obj\Debug\Expressio
 C:\Users\Leandro\Desktop\ExpressionBuilder\ExpressionBuilder\obj\Debug\ExpressionBuilder.pdb
 C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\src\ExpressionBuilder\bin\Debug\ExpressionBuilder.dll
 C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\src\ExpressionBuilder\bin\Debug\ExpressionBuilder.pdb
-C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\src\ExpressionBuilder\obj\Debug\ExpressionBuilder.csprojAssemblyReference.cache
 C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\src\ExpressionBuilder\obj\Debug\ExpressionBuilder.dll
 C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\src\ExpressionBuilder\obj\Debug\ExpressionBuilder.pdb
