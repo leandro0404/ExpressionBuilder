@@ -22,7 +22,6 @@ C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder
 C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\bin\Debug\pt-BR\ExpressionBuilder.Test.resources.dll
 C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\bin\Debug\ExpressionBuilder.dll
 C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\bin\Debug\ExpressionBuilder.pdb
-C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\bin\Debug\nunit.framework.xml
 C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.csprojAssemblyReference.cache
 C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.Resources.Operations.resources
 C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.Resources.Person.resources
