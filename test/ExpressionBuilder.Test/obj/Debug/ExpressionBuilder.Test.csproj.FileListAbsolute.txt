@@ -1,0 +1,35 @@
+C:\Users\Leandro\Desktop\ExpressionBuilder\ExpressionBuilder.Test\bin\Debug\ExpressionBuilder.Test.dll.config
+C:\Users\Leandro\Desktop\ExpressionBuilder\ExpressionBuilder.Test\bin\Debug\ExpressionBuilder.Test.dll
+C:\Users\Leandro\Desktop\ExpressionBuilder\ExpressionBuilder.Test\bin\Debug\ExpressionBuilder.Test.pdb
+C:\Users\Leandro\Desktop\ExpressionBuilder\ExpressionBuilder.Test\bin\Debug\pt-BR\ExpressionBuilder.Test.resources.dll
+C:\Users\Leandro\Desktop\ExpressionBuilder\ExpressionBuilder.Test\bin\Debug\ExpressionBuilder.dll
+C:\Users\Leandro\Desktop\ExpressionBuilder\ExpressionBuilder.Test\bin\Debug\nunit.framework.dll
+C:\Users\Leandro\Desktop\ExpressionBuilder\ExpressionBuilder.Test\bin\Debug\ExpressionBuilder.pdb
+C:\Users\Leandro\Desktop\ExpressionBuilder\ExpressionBuilder.Test\bin\Debug\nunit.framework.xml
+C:\Users\Leandro\Desktop\ExpressionBuilder\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.csprojAssemblyReference.cache
+C:\Users\Leandro\Desktop\ExpressionBuilder\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.Resources.Operations.resources
+C:\Users\Leandro\Desktop\ExpressionBuilder\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.Resources.Person.resources
+C:\Users\Leandro\Desktop\ExpressionBuilder\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.Resources.Operations.pt-BR.resources
+C:\Users\Leandro\Desktop\ExpressionBuilder\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.Resources.Person.pt-BR.resources
+C:\Users\Leandro\Desktop\ExpressionBuilder\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.csproj.GenerateResource.cache
+C:\Users\Leandro\Desktop\ExpressionBuilder\ExpressionBuilder.Test\obj\Debug\pt-BR\ExpressionBuilder.Test.resources.dll
+C:\Users\Leandro\Desktop\ExpressionBuilder\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.csproj.CopyComplete
+C:\Users\Leandro\Desktop\ExpressionBuilder\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.dll
+C:\Users\Leandro\Desktop\ExpressionBuilder\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.pdb
+C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\bin\Debug\ExpressionBuilder.Test.dll.config
+C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\bin\Debug\ExpressionBuilder.Test.dll
+C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\bin\Debug\ExpressionBuilder.Test.pdb
+C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\bin\Debug\pt-BR\ExpressionBuilder.Test.resources.dll
+C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\bin\Debug\ExpressionBuilder.dll
+C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\bin\Debug\ExpressionBuilder.pdb
+C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\bin\Debug\nunit.framework.xml
+C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.csprojAssemblyReference.cache
+C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.Resources.Operations.resources
+C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.Resources.Person.resources
+C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.Resources.Operations.pt-BR.resources
+C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.Resources.Person.pt-BR.resources
+C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.csproj.GenerateResource.cache
+C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\obj\Debug\pt-BR\ExpressionBuilder.Test.resources.dll
+C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.csproj.CopyComplete
+C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.dll
+C:\Users\Leandro\Desktop\Nova pasta (2)\ExpressionBuilder\test\ExpressionBuilder.Test\obj\Debug\ExpressionBuilder.Test.pdb
